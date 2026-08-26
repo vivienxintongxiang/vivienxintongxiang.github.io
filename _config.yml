@@ -22,7 +22,7 @@ repository               : "vivienxintongxiang/vivienxintongxiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_profile.JPG"
+  avatar           : "IMG_profile.jpg"
   name             : "Vivien Xintong Xiang"
   pronouns         : 
   bio              : "Accounting Ph.D. Candidate at the NUS Business School, National University of Singapore"
