@@ -10,24 +10,24 @@ author_profile: true
 - Hawaii Accounting Research Conference
 
 ## Conferences and Presentations
-
-- HKAAA Rookie Camp, 2026 (Presenter)
-- AAA Annual Conference, 2026 (Participant)
-- ABFER Annual Conference, 2026 (Participant)
-- NTU Tri-University Conference, 2026 (Participant)
-- ABFER Annual Conference, 2025 (Participant)
-- 14th MoFiR Workshop on Banking, 2025 (Participant)
-- Illinois International Accounting Symposium, 2024 (Discussant)
-- Nanyang Business School Accounting Conference, 2024 (Participant)
-- The NUS Accounting Research Symposium, 2024 (Presenter)
-- ABFER Annual Conference, 2024 (Participant)
-- NUS Accounting Doctoral Consortium, 2024 (Presenter)
-- SMU Tri-University Conference, 2023 (Participant)
-- ABFER Annual Conference, 2023 (Participant)
-- Duke Summer Theory Workshop, 2022 (Participant)
-- ABFER Annual Conference, 2022 (Participant)
-- SMU Tri-University Conference, 2022 (Participant)
-
+  * 39th Australasian Finance and Banking Conference, 2026 (Presenter; Discussant)
+  * HKAAA Rookie Camp, 2026 (Presenter)
+  * AFBC PhD Forum, 2026 (Participant)
+  * AAA Annual Conference, 2026 (Participant)
+  * ABFER Annual Conference, 2026 (Participant)
+  * NTU Tri-University Conference, 2026 (Participant)
+  * ABFER Annual Conference, 2025 (Participant)
+  * 14th MoFiR Workshop on Banking, 2025 (Participant)
+  * Illinois International Accounting Symposium, 2024 (Discussant)
+  * Nanyang Business School Accounting Conference, 2024 (Participant)
+  * ABFER Annual Conference, 2024 (Participant)
+  * NUS Accounting Doctoral Consortium, 2024 (Presenter)
+  * SMU Tri-University Conference, 2023 (Participant)
+  * ABFER Annual Conference, 2023 (Participant)
+  * Duke Summer Theory Workshop, 2022 (Participant)
+  * ABFER Annual Conference, 2022 (Participant)
+  * SMU Tri-University Conference, 2022 (Participant)
+    
 ## Honors and Awards
 
 - NUS Department of Accounting Doctoral Consortium Award, 2024
@@ -45,6 +45,6 @@ author_profile: true
 
 **Programming:** Proficient user of Stata, Python, SAS, SQL, and LaTeX
 
-**Athletics:** Golf (Golfer.Sg Club, Handicap 17), Karting, and B-Racing License (Inactive)
+**Athletics:** Golf (Golfer.Sg Club, Handicap 17), Karting, B-Racing License (Inactive), Piano (ABRSM Grade 8; Xinghai Grade 10)
 
 **Languages:** English, Cantonese, and Mandarin (fluent); Korean and Japanese (basic proficiency)
