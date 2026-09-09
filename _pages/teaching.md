@@ -9,7 +9,7 @@ author_profile: true
 
 **Accounting for Decision Makers (ACC1701C, Undergrad Core)**  
 Fall 2026  
-Instructor and Teaching Assistant  
+Case Instructor and Teaching Assistant  
 Materials: [AI Assistant in Accounting](https://tinyurl.com/ai-assistant-vivien-xiang)
 
 **Corporate Accounting & Reporting (ACC2707, Undergrad Core)**  
