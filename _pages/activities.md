@@ -11,6 +11,7 @@ author_profile: true
 
 ## Conferences and Presentations
   * 39th Australasian Finance and Banking Conference, 2026 (Presenter; Discussant)
+  * Sydney Banking and Financial Stability Conference, 2026 (Presenter; Discussant)
   * HKAAA Rookie Camp, 2026 (Presenter)
   * AFBC PhD Forum, 2026 (Participant)
   * AAA Annual Conference, 2026 (Participant)
