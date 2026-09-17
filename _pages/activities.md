@@ -10,6 +10,7 @@ author_profile: true
 - Hawaii Accounting Research Conference
 
 ## Conferences and Presentations
+  * Hawaii Accounting Research Conference, 2027 (Presenter; Discussant)
   * 39th Australasian Finance and Banking Conference, 2026 (Presenter; Discussant)
   * Sydney Banking and Financial Stability Conference, 2026 (Presenter; Discussant)
   * HKAAA Rookie Camp, 2026 (Presenter)
