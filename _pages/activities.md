@@ -8,6 +8,7 @@ author_profile: true
 ## Ad Hoc Reviewer
 
 - Hawaii Accounting Research Conference
+- FARS Midyear Meeting
 
 ## Conferences and Presentations
   * Hawaii Accounting Research Conference, 2027 (Presenter; Discussant)
