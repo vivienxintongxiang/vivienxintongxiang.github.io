@@ -57,9 +57,9 @@ Teaching Assistant
 
   <div class="feedback-card">What I learn in her class feels useful beyond the course, especially for reading financial statements and understanding how businesses work.</div>
 
-  <div class="feedback-card feedback-practice"><span class="feedback-label">Teaching practice</span>Vivien provides an AI Assistant in Accounting so students can get help with questions while they study.</div>
+  <div class="feedback-card">Vivien provides an AI Assistant in Accounting so students can get help with questions while they study.</div>
 
-  <div class="feedback-card feedback-practice"><span class="feedback-label">Teaching practice</span>She brings AI into accounting classes and encourages students to check its answers against accounting principles.</div>
+  <div class="feedback-card">She brings AI into accounting classes and encourages students to check its answers against accounting principles.</div>
 </div>
 
 <style>
