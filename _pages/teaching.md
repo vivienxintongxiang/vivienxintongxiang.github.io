@@ -28,12 +28,14 @@ Teaching Assistant
 
 **Teaching rating: 4.9 / 5.0**
 
-*Scroll to read more.*
+*Scroll to read more (Most Recent-2026).*
 
 <div class="feedback-scroll" role="region" aria-label="Teaching highlights and student feedback" tabindex="0">
   <div class="feedback-card">Vivien explains accounting in a way that is easy to follow, even when the topic seems confusing at first.</div>
 
   <div class="feedback-card">She starts with the basic ideas, which helps me understand the reasoning instead of just memorizing the steps.</div>
+
+ <div class="feedback-card">Vivien shows us how to use AI as an accounting assistant—what questions we can ask it to help with, and why we still need to check its answers and make our own judgments.</div>
 
   <div class="feedback-card">Vivien takes the time to work through problems with us until the reasoning makes sense. After that, similar questions feel much easier to do on my own.</div>
 
@@ -43,9 +45,9 @@ Teaching Assistant
 
   <div class="feedback-card">She makes journal entries clearer by going through examples step by step.</div>
 
-  <div class="feedback-card">Vivien helps me see how the income statement, balance sheet, and other financial statements are connected.</div>
+  <div class="feedback-card">Vivien does not rush through the steps. She explains why we do each one, which makes the accounting process much easier to follow.</div>
 
-  <div class="feedback-card">She shows us how to use financial statements to understand what is happening in a company, not just how to prepare them.</div>
+  <div class="feedback-card">She uses examples from actual companies, so I can see how what we learn in class helps us understand their business decisions.</div>
 
   <div class="feedback-card">Vivien explains how accounting can be useful for making business and investment decisions.</div>
 
@@ -57,10 +59,8 @@ Teaching Assistant
 
   <div class="feedback-card">What I learn in her class feels useful beyond the course, especially for reading financial statements and understanding how businesses work.</div>
 
-  <div class="feedback-card">Vivien provides an AI Assistant in Accounting so students can get help with questions while they study.</div>
+  <div class="feedback-card">Vivien provides an AI Assistant in Accounting so I can get help with questions while I study.</div>
 
-  <div class="feedback-card">She brings AI into accounting classes and encourages students to check its answers against accounting principles.</div>
-</div>
 
 <style>
 .feedback-scroll {
