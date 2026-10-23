@@ -12,6 +12,7 @@ author_profile: true
 
 ## Conferences and Presentations
   * Hawaii Accounting Research Conference, 2027 (Presenter; Discussant)
+  * Singapore Accounting Symposium, 2026 (Poster Presenter)
   * 39th Australasian Finance and Banking Conference, 2026 (Presenter; Discussant)
   * Sydney Banking and Financial Stability Conference, 2026 (Presenter; Discussant)
   * Monash Accounting PhD Colloquium, 2026 (Presenter)
