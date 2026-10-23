@@ -14,6 +14,7 @@ author_profile: true
   * Hawaii Accounting Research Conference, 2027 (Presenter; Discussant)
   * 39th Australasian Finance and Banking Conference, 2026 (Presenter; Discussant)
   * Sydney Banking and Financial Stability Conference, 2026 (Presenter; Discussant)
+  * Monash Accounting PhD Colloquium, 2026 (Presenter)
   * HKAAA Rookie Camp, 2026 (Presenter)
   * AFBC PhD Forum, 2026 (Participant)
   * AAA Annual Conference, 2026 (Participant)
