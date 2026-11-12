@@ -46,10 +46,10 @@ author_profile: true
 
 ## Miscellanea
 
-**Affiliations:** American Accounting Association and ACCA (Association of Chartered Certified Accountants; Inactive)
+**Affiliations:** American Accounting Association, European Accounting Association and ACCA (Association of Chartered Certified Accountants; Inactive)
 
 **Programming:** Proficient user of Stata, Python, SAS, SQL, and LaTeX
 
-**Athletics:** Golf (Golfer.Sg Club, Handicap 17), Karting, B-Racing License (Inactive), Piano (ABRSM Grade 8; Xinghai Grade 10)
+**Athletics:** Golf, Karting, B-Racing and Piano
 
-**Languages:** English, Cantonese, and Mandarin (fluent); Korean and Japanese (basic proficiency)
+**Languages:** English, Cantonese, and Mandarin (fluent); Korean and Japanese (basic proficiency); French (beginner)
